@@ -683,13 +683,13 @@ containing a value of this type.
         public static final int windowSplitActionBar=0x7f010044;
     }
     public static final class bool {
-        public static final int abs__action_bar_embed_tabs=0x7f060000;
-        public static final int abs__action_bar_expanded_action_views_exclusive=0x7f060002;
+        public static final int abs__action_bar_embed_tabs=0x7f050000;
+        public static final int abs__action_bar_expanded_action_views_exclusive=0x7f050002;
         /**  Whether action menu items should be displayed in ALLCAPS or not.
          Defaults to true. If this is not appropriate for specific locales
          it should be disabled in that locale's resources. 
          */
-        public static final int abs__config_actionMenuItemAllCaps=0x7f060004;
+        public static final int abs__config_actionMenuItemAllCaps=0x7f050004;
         /**  Whether action menu items should obey the "withText" showAsAction
          flag. This may be set to false for situations where space is
          extremely limited. 
@@ -697,47 +697,47 @@ containing a value of this type.
          flag. This may be set to false for situations where space is
          extremely limited. 
          */
-        public static final int abs__config_allowActionMenuItemTextWithIcon=0x7f060005;
+        public static final int abs__config_allowActionMenuItemTextWithIcon=0x7f050005;
         /**  Sets whether menu shortcuts should be displayed on panel menus when
          a keyboard is present. 
          */
-        public static final int abs__config_showMenuShortcutsWhenKeyboardPresent=0x7f060003;
-        public static final int abs__split_action_bar_is_narrow=0x7f060001;
+        public static final int abs__config_showMenuShortcutsWhenKeyboardPresent=0x7f050003;
+        public static final int abs__split_action_bar_is_narrow=0x7f050001;
     }
     public static final class color {
-        public static final int abs__background_holo_dark=0x7f070000;
-        public static final int abs__background_holo_light=0x7f070001;
-        public static final int abs__bright_foreground_disabled_holo_dark=0x7f070004;
-        public static final int abs__bright_foreground_disabled_holo_light=0x7f070005;
-        public static final int abs__bright_foreground_holo_dark=0x7f070002;
-        public static final int abs__bright_foreground_holo_light=0x7f070003;
-        public static final int abs__primary_text_disable_only_holo_dark=0x7f070030;
-        public static final int abs__primary_text_disable_only_holo_light=0x7f070031;
-        public static final int abs__primary_text_holo_dark=0x7f070032;
-        public static final int abs__primary_text_holo_light=0x7f070033;
-        public static final int actionbar_bg=0x7f070006;
-        public static final int bridleway=0x7f07001f;
-        public static final int bug_closed=0x7f07002f;
-        public static final int bug_open=0x7f07002e;
-        public static final int building=0x7f070026;
-        public static final int ccc_beige=0x7f07000f;
-        public static final int ccc_blue=0x7f07000d;
-        public static final int ccc_darkred=0x7f07000e;
-        public static final int ccc_ocher=0x7f070011;
-        public static final int ccc_red=0x7f07000c;
-        public static final int ccc_white=0x7f070010;
-        public static final int college=0x7f070028;
-        public static final int commercial=0x7f07002c;
-        public static final int cycleway=0x7f07001d;
-        public static final int dark_grey=0x7f070014;
-        public static final int footway=0x7f07001e;
-        public static final int forest=0x7f07002a;
-        public static final int grey=0x7f070012;
-        public static final int halt=0x7f070024;
-        public static final int leisure=0x7f070027;
-        public static final int light_grey=0x7f070013;
-        public static final int motorway=0x7f070017;
-        public static final int parking=0x7f070029;
+        public static final int abs__background_holo_dark=0x7f060000;
+        public static final int abs__background_holo_light=0x7f060001;
+        public static final int abs__bright_foreground_disabled_holo_dark=0x7f060004;
+        public static final int abs__bright_foreground_disabled_holo_light=0x7f060005;
+        public static final int abs__bright_foreground_holo_dark=0x7f060002;
+        public static final int abs__bright_foreground_holo_light=0x7f060003;
+        public static final int abs__primary_text_disable_only_holo_dark=0x7f060030;
+        public static final int abs__primary_text_disable_only_holo_light=0x7f060031;
+        public static final int abs__primary_text_holo_dark=0x7f060032;
+        public static final int abs__primary_text_holo_light=0x7f060033;
+        public static final int actionbar_bg=0x7f060006;
+        public static final int bridleway=0x7f06001f;
+        public static final int bug_closed=0x7f06002f;
+        public static final int bug_open=0x7f06002e;
+        public static final int building=0x7f060026;
+        public static final int ccc_beige=0x7f06000f;
+        public static final int ccc_blue=0x7f06000d;
+        public static final int ccc_darkred=0x7f06000e;
+        public static final int ccc_ocher=0x7f060011;
+        public static final int ccc_red=0x7f06000c;
+        public static final int ccc_white=0x7f060010;
+        public static final int college=0x7f060028;
+        public static final int commercial=0x7f06002c;
+        public static final int cycleway=0x7f06001d;
+        public static final int dark_grey=0x7f060014;
+        public static final int footway=0x7f06001e;
+        public static final int forest=0x7f06002a;
+        public static final int grey=0x7f060012;
+        public static final int halt=0x7f060024;
+        public static final int leisure=0x7f060027;
+        public static final int light_grey=0x7f060013;
+        public static final int motorway=0x7f060017;
+        public static final int parking=0x7f060029;
         /**  
 	<color name="unclassified">#FFFFFF</color>
 	<color name="residential">#FFFFFF</color>
@@ -745,25 +745,25 @@ containing a value of this type.
 	<color name="service">#FFFFFF</color>
 
          */
-        public static final int pedestrian=0x7f07001c;
-        public static final int power=0x7f070025;
-        public static final int preset_bg=0x7f07000b;
-        public static final int preset_text=0x7f07000a;
-        public static final int primary=0x7f070019;
-        public static final int problem=0x7f070016;
-        public static final int retail=0x7f07002b;
-        public static final int river=0x7f070021;
-        public static final int secondary=0x7f07001a;
-        public static final int station=0x7f070023;
-        public static final int stroke=0x7f070015;
-        public static final int tagedit_field_bg=0x7f070008;
-        public static final int tagedit_field_static_bg=0x7f070009;
-        public static final int tagedit_field_text=0x7f070007;
-        public static final int tertiary=0x7f07001b;
-        public static final int tracktype=0x7f070020;
-        public static final int tram=0x7f070022;
-        public static final int trunk=0x7f070018;
-        public static final int water=0x7f07002d;
+        public static final int pedestrian=0x7f06001c;
+        public static final int power=0x7f060025;
+        public static final int preset_bg=0x7f06000b;
+        public static final int preset_text=0x7f06000a;
+        public static final int primary=0x7f060019;
+        public static final int problem=0x7f060016;
+        public static final int retail=0x7f06002b;
+        public static final int river=0x7f060021;
+        public static final int secondary=0x7f06001a;
+        public static final int station=0x7f060023;
+        public static final int stroke=0x7f060015;
+        public static final int tagedit_field_bg=0x7f060008;
+        public static final int tagedit_field_static_bg=0x7f060009;
+        public static final int tagedit_field_text=0x7f060007;
+        public static final int tertiary=0x7f06001b;
+        public static final int tracktype=0x7f060020;
+        public static final int tram=0x7f060022;
+        public static final int trunk=0x7f060018;
+        public static final int water=0x7f06002d;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -775,7 +775,7 @@ containing a value of this type.
  Default height of an action bar. 
  Default height of an action bar. 
          */
-        public static final int abs__action_bar_default_height=0x7f080001;
+        public static final int abs__action_bar_default_height=0x7f070001;
         /**  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
@@ -785,7 +785,7 @@ containing a value of this type.
  Vertical padding around action bar icons. 
  Vertical padding around action bar icons. 
          */
-        public static final int abs__action_bar_icon_vertical_padding=0x7f080002;
+        public static final int abs__action_bar_icon_vertical_padding=0x7f070002;
         /**  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
@@ -795,7 +795,7 @@ containing a value of this type.
  Bottom margin for action bar subtitles 
  Bottom margin for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_bottom_margin=0x7f080006;
+        public static final int abs__action_bar_subtitle_bottom_margin=0x7f070006;
         /**  Text size for action bar subtitles 
  Text size for action bar subtitles 
  Text size for action bar subtitles 
@@ -805,7 +805,7 @@ containing a value of this type.
  Text size for action bar subtitles 
  Text size for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_text_size=0x7f080004;
+        public static final int abs__action_bar_subtitle_text_size=0x7f070004;
         /**  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
@@ -815,7 +815,7 @@ containing a value of this type.
  Top margin for action bar subtitles 
  Top margin for action bar subtitles 
          */
-        public static final int abs__action_bar_subtitle_top_margin=0x7f080005;
+        public static final int abs__action_bar_subtitle_top_margin=0x7f070005;
         /**  Text size for action bar titles 
  Text size for action bar titles 
  Text size for action bar titles 
@@ -825,43 +825,43 @@ containing a value of this type.
  Text size for action bar titles 
  Text size for action bar titles 
          */
-        public static final int abs__action_bar_title_text_size=0x7f080003;
+        public static final int abs__action_bar_title_text_size=0x7f070003;
         /**  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
  Minimum width for an action button in the menu area of an action bar 
          */
-        public static final int abs__action_button_min_width=0x7f080007;
+        public static final int abs__action_button_min_width=0x7f070007;
         /**  The maximum width we would prefer dialogs to be.  0 if there is no
          maximum (let them grow as large as the screen).  Actual values are
          specified for -large and -xlarge configurations. 
          */
-        public static final int abs__config_prefDialogWidth=0x7f080000;
+        public static final int abs__config_prefDialogWidth=0x7f070000;
         /**  The platform's desired minimum size for a dialog's width when it
          is along the major axis (that is the screen is landscape).  This may
          be either a fraction or a dimension. 
          */
-        public static final int abs__dialog_min_width_major=0x7f08000d;
+        public static final int abs__dialog_min_width_major=0x7f07000d;
         /**  The platform's desired minimum size for a dialog's width when it
          is along the minor axis (that is the screen is portrait).  This may
          be either a fraction or a dimension. 
          */
-        public static final int abs__dialog_min_width_minor=0x7f08000e;
+        public static final int abs__dialog_min_width_minor=0x7f07000e;
         /**  Width of the icon in a dropdown list 
          */
-        public static final int abs__dropdownitem_icon_width=0x7f08000a;
+        public static final int abs__dropdownitem_icon_width=0x7f07000a;
         /**  Text padding for dropdown items 
          */
-        public static final int abs__dropdownitem_text_padding_left=0x7f080008;
+        public static final int abs__dropdownitem_text_padding_left=0x7f070008;
         /**  Text padding for dropdown items 
          */
-        public static final int abs__dropdownitem_text_padding_right=0x7f080009;
+        public static final int abs__dropdownitem_text_padding_right=0x7f070009;
         /**  Preferred width of the search view. 
          */
-        public static final int abs__search_view_preferred_width=0x7f08000c;
+        public static final int abs__search_view_preferred_width=0x7f07000c;
         /**  Minimum width of the search view text entry area. 
          */
-        public static final int abs__search_view_text_min_width=0x7f08000b;
+        public static final int abs__search_view_text_min_width=0x7f07000b;
     }
     public static final class drawable {
         public static final int abs__ab_bottom_solid_dark_holo=0x7f020000;
@@ -1044,212 +1044,212 @@ containing a value of this type.
         public static final int unlocked=0x7f0200ac;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f050047;
-        public static final int ScrollView1=0x7f050094;
-        public static final int abs__action_bar=0x7f050023;
-        public static final int abs__action_bar_container=0x7f050022;
-        public static final int abs__action_bar_subtitle=0x7f050014;
-        public static final int abs__action_bar_title=0x7f050013;
-        public static final int abs__action_context_bar=0x7f050024;
-        public static final int abs__action_menu_divider=0x7f05000c;
-        public static final int abs__action_menu_presenter=0x7f05000d;
-        public static final int abs__action_mode_bar=0x7f050028;
-        public static final int abs__action_mode_bar_stub=0x7f050027;
-        public static final int abs__action_mode_close_button=0x7f050017;
-        public static final int abs__activity_chooser_view_content=0x7f050018;
-        public static final int abs__checkbox=0x7f05001f;
-        public static final int abs__content=0x7f050025;
-        public static final int abs__default_activity_button=0x7f05001b;
-        public static final int abs__expand_activities_button=0x7f050019;
-        public static final int abs__home=0x7f05000a;
-        public static final int abs__icon=0x7f05001d;
-        public static final int abs__image=0x7f05001a;
-        public static final int abs__imageButton=0x7f050015;
-        public static final int abs__list_item=0x7f05001c;
-        public static final int abs__progress_circular=0x7f05000e;
-        public static final int abs__progress_horizontal=0x7f05000f;
-        public static final int abs__radio=0x7f050020;
-        public static final int abs__search_badge=0x7f05002b;
-        public static final int abs__search_bar=0x7f05002a;
-        public static final int abs__search_button=0x7f05002c;
-        public static final int abs__search_close_btn=0x7f050031;
-        public static final int abs__search_edit_frame=0x7f05002d;
-        public static final int abs__search_go_btn=0x7f050033;
-        public static final int abs__search_mag_icon=0x7f05002e;
-        public static final int abs__search_plate=0x7f05002f;
-        public static final int abs__search_src_text=0x7f050030;
-        public static final int abs__search_voice_btn=0x7f050034;
-        public static final int abs__shortcut=0x7f050021;
-        public static final int abs__split_action_bar=0x7f050026;
-        public static final int abs__submit_area=0x7f050032;
-        public static final int abs__textButton=0x7f050016;
-        public static final int abs__title=0x7f05001e;
-        public static final int abs__up=0x7f05000b;
-        public static final int background_contrast_seeker=0x7f050036;
-        public static final int content_frame=0x7f050038;
-        public static final int disableHome=0x7f050009;
-        public static final int editKey=0x7f050077;
-        public static final int editMemberRole=0x7f050068;
-        public static final int editParent=0x7f05006c;
-        public static final int editRole=0x7f05006b;
-        public static final int editValue=0x7f050078;
-        public static final int edit_query=0x7f050029;
-        public static final int edit_row_layout=0x7f05007a;
-        public static final int help_drawer_item=0x7f05003a;
-        public static final int help_drawer_layout=0x7f050037;
-        public static final int help_left_drawer=0x7f050039;
-        public static final int help_menu_back=0x7f0500a1;
-        public static final int help_menu_forward=0x7f0500a2;
-        public static final int homeAsUp=0x7f050006;
-        public static final int iconDelete=0x7f050067;
-        public static final int imagery_offset_author=0x7f05003d;
-        public static final int imagery_offset_author_title=0x7f05006e;
-        public static final int imagery_offset_date=0x7f05003f;
-        public static final int imagery_offset_description=0x7f05003b;
-        public static final int imagery_offset_distance=0x7f050041;
-        public static final int imagery_offset_offset=0x7f05003e;
-        public static final int imagery_offset_zoom=0x7f050040;
-        public static final int licenseFullText=0x7f050043;
-        public static final int licenseShortText=0x7f050042;
-        public static final int linearLayout1=0x7f05003c;
-        public static final int listItemCheckBox=0x7f050046;
-        public static final int listItemText1=0x7f050044;
-        public static final int listItemText2=0x7f050045;
-        public static final int listMode=0x7f050002;
-        public static final int listedit_editName=0x7f050049;
-        public static final int listedit_editValue=0x7f05004b;
-        public static final int listedit_labelName=0x7f050048;
-        public static final int listedit_labelValue=0x7f05004a;
-        public static final int listedit_labeloauth=0x7f05004c;
-        public static final int listedit_oauth=0x7f05004d;
-        public static final int location_button_current=0x7f050059;
-        public static final int location_button_no_location=0x7f05005a;
-        public static final int location_coordinates=0x7f050052;
-        public static final int location_coordinates_layout=0x7f050053;
-        public static final int location_current=0x7f050051;
-        public static final int location_last=0x7f050050;
-        public static final int location_lat_edit=0x7f050054;
-        public static final int location_lon_edit=0x7f050055;
-        public static final int location_radius_seeker=0x7f050058;
-        public static final int location_radius_text=0x7f050057;
-        public static final int location_search_edit=0x7f050056;
-        public static final int location_type=0x7f05004e;
-        public static final int location_type_group=0x7f05004f;
-        public static final int lock=0x7f05005b;
-        public static final int loginedit_editPassword=0x7f05005f;
-        public static final int loginedit_editUsername=0x7f05005d;
-        public static final int loginedit_labelHint=0x7f050060;
-        public static final int loginedit_labelPassword=0x7f05005e;
-        public static final int loginedit_labelUsername=0x7f05005c;
-        public static final int memberObject=0x7f05006a;
-        public static final int memberType=0x7f050069;
-        public static final int member_heading_view=0x7f050080;
-        public static final int member_object_heading_view=0x7f050083;
-        public static final int member_role_heading_view=0x7f050081;
-        public static final int member_type_heading_view=0x7f050082;
-        public static final int membership_heading_view=0x7f05007c;
-        public static final int membership_relation_heading_view=0x7f05007e;
-        public static final int membership_role_heading_view=0x7f05007d;
-        public static final int menu_confing=0x7f0500b8;
-        public static final int menu_find=0x7f0500be;
-        public static final int menu_gps=0x7f0500a4;
-        public static final int menu_gps_autodownload=0x7f0500af;
-        public static final int menu_gps_clear=0x7f0500aa;
-        public static final int menu_gps_export=0x7f0500ac;
-        public static final int menu_gps_follow=0x7f0500a6;
-        public static final int menu_gps_goto=0x7f0500a7;
-        public static final int menu_gps_goto_start=0x7f0500ae;
-        public static final int menu_gps_import=0x7f0500ad;
-        public static final int menu_gps_pause=0x7f0500a9;
-        public static final int menu_gps_show=0x7f0500a5;
-        public static final int menu_gps_start=0x7f0500a8;
-        public static final int menu_gps_upload=0x7f0500ab;
-        public static final int menu_help=0x7f0500bf;
-        public static final int menu_tools=0x7f0500b9;
-        public static final int menu_tools_background_align=0x7f0500bc;
-        public static final int menu_tools_background_properties=0x7f0500bd;
-        public static final int menu_tools_flush_background_tile_cache=0x7f0500ba;
-        public static final int menu_tools_flush_overlay_tile_cache=0x7f0500bb;
-        public static final int menu_transfer=0x7f0500b0;
-        public static final int menu_transfer_download_current=0x7f0500b1;
-        public static final int menu_transfer_download_current_add=0x7f0500b2;
-        public static final int menu_transfer_download_other=0x7f0500b3;
-        public static final int menu_transfer_export=0x7f0500b5;
-        public static final int menu_transfer_read_file=0x7f0500b6;
-        public static final int menu_transfer_save_file=0x7f0500b7;
-        public static final int menu_transfer_upload=0x7f0500b4;
-        public static final int menu_undo=0x7f0500a3;
-        public static final int normal=0x7f050001;
-        public static final int notification_tracker=0x7f050012;
-        public static final int openstreetbug_close=0x7f050066;
-        public static final int openstreetbug_comment=0x7f050065;
-        public static final int openstreetbug_comment_label=0x7f050064;
-        public static final int openstreetbug_comments=0x7f050062;
-        public static final int openstreetbug_comments_scroll=0x7f050061;
-        public static final int openstreetbug_controls=0x7f050063;
-        public static final int presets_layout=0x7f05007b;
-        public static final int recentPresets=0x7f050010;
-        public static final int relationList=0x7f050011;
-        public static final int relation_members_layout=0x7f050084;
-        public static final int relation_membership_layout=0x7f05007f;
-        public static final int save_file_edit=0x7f05006d;
-        public static final int search_results=0x7f05006f;
-        public static final int search_results_item=0x7f050070;
-        public static final int set_position_datum=0x7f050072;
-        public static final int set_position_datum_label=0x7f050071;
-        public static final int set_position_lat=0x7f050076;
-        public static final int set_position_lat_label=0x7f050075;
-        public static final int set_position_lon=0x7f050074;
-        public static final int set_position_lon_label=0x7f050073;
-        public static final int showCustom=0x7f050008;
-        public static final int showHome=0x7f050005;
-        public static final int showTitle=0x7f050007;
-        public static final int tabMode=0x7f050003;
-        public static final int tag_menu_address=0x7f0500c0;
-        public static final int tag_menu_addtorelation=0x7f0500c6;
-        public static final int tag_menu_apply_preset=0x7f0500c2;
-        public static final int tag_menu_help=0x7f0500ca;
-        public static final int tag_menu_mapfeatures=0x7f0500c5;
-        public static final int tag_menu_preset=0x7f0500c1;
-        public static final int tag_menu_repeat=0x7f0500c3;
-        public static final int tag_menu_resetMRU=0x7f0500c8;
-        public static final int tag_menu_reset_address_prediction=0x7f0500c7;
-        public static final int tag_menu_revert=0x7f0500c4;
-        public static final int tag_menu_sourcesurvey=0x7f0500c9;
-        public static final int text1=0x7f050035;
-        public static final int upload_changes=0x7f05008c;
-        public static final int upload_close_changeset=0x7f05008b;
-        public static final int upload_close_changeset_label=0x7f05008a;
-        public static final int upload_comment=0x7f050087;
-        public static final int upload_comment_controls=0x7f050085;
-        public static final int upload_comment_label=0x7f050086;
-        public static final int upload_gpx_controls=0x7f05008d;
-        public static final int upload_gpx_description=0x7f05008f;
-        public static final int upload_gpx_description_label=0x7f05008e;
-        public static final int upload_gpx_tags=0x7f050091;
-        public static final int upload_gpx_tags_label=0x7f050090;
-        public static final int upload_gpx_visibility=0x7f050093;
-        public static final int upload_gpx_visibility_label=0x7f050092;
-        public static final int upload_source=0x7f050089;
-        public static final int upload_source_label=0x7f050088;
-        public static final int urldialog_buttonAddAPI=0x7f05009f;
-        public static final int urldialog_buttonAddPreset=0x7f050099;
-        public static final int urldialog_layoutAPI=0x7f05009a;
-        public static final int urldialog_layoutPreset=0x7f050095;
-        public static final int urldialog_nodata=0x7f0500a0;
-        public static final int urldialog_textAPIExists=0x7f05009e;
-        public static final int urldialog_textAPIName=0x7f05009b;
-        public static final int urldialog_textAPIPresetMissing=0x7f05009d;
-        public static final int urldialog_textAPIURL=0x7f05009c;
-        public static final int urldialog_textPresetExists=0x7f050098;
-        public static final int urldialog_textPresetName=0x7f050096;
-        public static final int urldialog_textPresetURL=0x7f050097;
-        public static final int useLogo=0x7f050004;
-        public static final int vertical_layout=0x7f050079;
-        public static final int wrap_content=0x7f050000;
+        public static final int LinearLayout1=0x7f090047;
+        public static final int ScrollView1=0x7f090094;
+        public static final int abs__action_bar=0x7f090023;
+        public static final int abs__action_bar_container=0x7f090022;
+        public static final int abs__action_bar_subtitle=0x7f090014;
+        public static final int abs__action_bar_title=0x7f090013;
+        public static final int abs__action_context_bar=0x7f090024;
+        public static final int abs__action_menu_divider=0x7f090002;
+        public static final int abs__action_menu_presenter=0x7f090003;
+        public static final int abs__action_mode_bar=0x7f090028;
+        public static final int abs__action_mode_bar_stub=0x7f090027;
+        public static final int abs__action_mode_close_button=0x7f090017;
+        public static final int abs__activity_chooser_view_content=0x7f090018;
+        public static final int abs__checkbox=0x7f09001f;
+        public static final int abs__content=0x7f090025;
+        public static final int abs__default_activity_button=0x7f09001b;
+        public static final int abs__expand_activities_button=0x7f090019;
+        public static final int abs__home=0x7f090000;
+        public static final int abs__icon=0x7f09001d;
+        public static final int abs__image=0x7f09001a;
+        public static final int abs__imageButton=0x7f090015;
+        public static final int abs__list_item=0x7f09001c;
+        public static final int abs__progress_circular=0x7f090004;
+        public static final int abs__progress_horizontal=0x7f090005;
+        public static final int abs__radio=0x7f090020;
+        public static final int abs__search_badge=0x7f09002b;
+        public static final int abs__search_bar=0x7f09002a;
+        public static final int abs__search_button=0x7f09002c;
+        public static final int abs__search_close_btn=0x7f090031;
+        public static final int abs__search_edit_frame=0x7f09002d;
+        public static final int abs__search_go_btn=0x7f090033;
+        public static final int abs__search_mag_icon=0x7f09002e;
+        public static final int abs__search_plate=0x7f09002f;
+        public static final int abs__search_src_text=0x7f090030;
+        public static final int abs__search_voice_btn=0x7f090034;
+        public static final int abs__shortcut=0x7f090021;
+        public static final int abs__split_action_bar=0x7f090026;
+        public static final int abs__submit_area=0x7f090032;
+        public static final int abs__textButton=0x7f090016;
+        public static final int abs__title=0x7f09001e;
+        public static final int abs__up=0x7f090001;
+        public static final int background_contrast_seeker=0x7f090036;
+        public static final int content_frame=0x7f090038;
+        public static final int disableHome=0x7f09000d;
+        public static final int editKey=0x7f090077;
+        public static final int editMemberRole=0x7f090068;
+        public static final int editParent=0x7f09006c;
+        public static final int editRole=0x7f09006b;
+        public static final int editValue=0x7f090078;
+        public static final int edit_query=0x7f090029;
+        public static final int edit_row_layout=0x7f09007a;
+        public static final int help_drawer_item=0x7f09003a;
+        public static final int help_drawer_layout=0x7f090037;
+        public static final int help_left_drawer=0x7f090039;
+        public static final int help_menu_back=0x7f0900a1;
+        public static final int help_menu_forward=0x7f0900a2;
+        public static final int homeAsUp=0x7f09000e;
+        public static final int iconDelete=0x7f090067;
+        public static final int imagery_offset_author=0x7f09003d;
+        public static final int imagery_offset_author_title=0x7f09006e;
+        public static final int imagery_offset_date=0x7f09003f;
+        public static final int imagery_offset_description=0x7f09003b;
+        public static final int imagery_offset_distance=0x7f090041;
+        public static final int imagery_offset_offset=0x7f09003e;
+        public static final int imagery_offset_zoom=0x7f090040;
+        public static final int licenseFullText=0x7f090043;
+        public static final int licenseShortText=0x7f090042;
+        public static final int linearLayout1=0x7f09003c;
+        public static final int listItemCheckBox=0x7f090046;
+        public static final int listItemText1=0x7f090044;
+        public static final int listItemText2=0x7f090045;
+        public static final int listMode=0x7f09000a;
+        public static final int listedit_editName=0x7f090049;
+        public static final int listedit_editValue=0x7f09004b;
+        public static final int listedit_labelName=0x7f090048;
+        public static final int listedit_labelValue=0x7f09004a;
+        public static final int listedit_labeloauth=0x7f09004c;
+        public static final int listedit_oauth=0x7f09004d;
+        public static final int location_button_current=0x7f090059;
+        public static final int location_button_no_location=0x7f09005a;
+        public static final int location_coordinates=0x7f090052;
+        public static final int location_coordinates_layout=0x7f090053;
+        public static final int location_current=0x7f090051;
+        public static final int location_last=0x7f090050;
+        public static final int location_lat_edit=0x7f090054;
+        public static final int location_lon_edit=0x7f090055;
+        public static final int location_radius_seeker=0x7f090058;
+        public static final int location_radius_text=0x7f090057;
+        public static final int location_search_edit=0x7f090056;
+        public static final int location_type=0x7f09004e;
+        public static final int location_type_group=0x7f09004f;
+        public static final int lock=0x7f09005b;
+        public static final int loginedit_editPassword=0x7f09005f;
+        public static final int loginedit_editUsername=0x7f09005d;
+        public static final int loginedit_labelHint=0x7f090060;
+        public static final int loginedit_labelPassword=0x7f09005e;
+        public static final int loginedit_labelUsername=0x7f09005c;
+        public static final int memberObject=0x7f09006a;
+        public static final int memberType=0x7f090069;
+        public static final int member_heading_view=0x7f090080;
+        public static final int member_object_heading_view=0x7f090083;
+        public static final int member_role_heading_view=0x7f090081;
+        public static final int member_type_heading_view=0x7f090082;
+        public static final int membership_heading_view=0x7f09007c;
+        public static final int membership_relation_heading_view=0x7f09007e;
+        public static final int membership_role_heading_view=0x7f09007d;
+        public static final int menu_confing=0x7f0900b8;
+        public static final int menu_find=0x7f0900be;
+        public static final int menu_gps=0x7f0900a4;
+        public static final int menu_gps_autodownload=0x7f0900af;
+        public static final int menu_gps_clear=0x7f0900aa;
+        public static final int menu_gps_export=0x7f0900ac;
+        public static final int menu_gps_follow=0x7f0900a6;
+        public static final int menu_gps_goto=0x7f0900a7;
+        public static final int menu_gps_goto_start=0x7f0900ae;
+        public static final int menu_gps_import=0x7f0900ad;
+        public static final int menu_gps_pause=0x7f0900a9;
+        public static final int menu_gps_show=0x7f0900a5;
+        public static final int menu_gps_start=0x7f0900a8;
+        public static final int menu_gps_upload=0x7f0900ab;
+        public static final int menu_help=0x7f0900bf;
+        public static final int menu_tools=0x7f0900b9;
+        public static final int menu_tools_background_align=0x7f0900bc;
+        public static final int menu_tools_background_properties=0x7f0900bd;
+        public static final int menu_tools_flush_background_tile_cache=0x7f0900ba;
+        public static final int menu_tools_flush_overlay_tile_cache=0x7f0900bb;
+        public static final int menu_transfer=0x7f0900b0;
+        public static final int menu_transfer_download_current=0x7f0900b1;
+        public static final int menu_transfer_download_current_add=0x7f0900b2;
+        public static final int menu_transfer_download_other=0x7f0900b3;
+        public static final int menu_transfer_export=0x7f0900b5;
+        public static final int menu_transfer_read_file=0x7f0900b6;
+        public static final int menu_transfer_save_file=0x7f0900b7;
+        public static final int menu_transfer_upload=0x7f0900b4;
+        public static final int menu_undo=0x7f0900a3;
+        public static final int normal=0x7f09000b;
+        public static final int notification_tracker=0x7f090008;
+        public static final int openstreetbug_close=0x7f090066;
+        public static final int openstreetbug_comment=0x7f090065;
+        public static final int openstreetbug_comment_label=0x7f090064;
+        public static final int openstreetbug_comments=0x7f090062;
+        public static final int openstreetbug_comments_scroll=0x7f090061;
+        public static final int openstreetbug_controls=0x7f090063;
+        public static final int presets_layout=0x7f09007b;
+        public static final int recentPresets=0x7f090006;
+        public static final int relationList=0x7f090007;
+        public static final int relation_members_layout=0x7f090084;
+        public static final int relation_membership_layout=0x7f09007f;
+        public static final int save_file_edit=0x7f09006d;
+        public static final int search_results=0x7f09006f;
+        public static final int search_results_item=0x7f090070;
+        public static final int set_position_datum=0x7f090072;
+        public static final int set_position_datum_label=0x7f090071;
+        public static final int set_position_lat=0x7f090076;
+        public static final int set_position_lat_label=0x7f090075;
+        public static final int set_position_lon=0x7f090074;
+        public static final int set_position_lon_label=0x7f090073;
+        public static final int showCustom=0x7f09000f;
+        public static final int showHome=0x7f090010;
+        public static final int showTitle=0x7f090011;
+        public static final int tabMode=0x7f09000c;
+        public static final int tag_menu_address=0x7f0900c0;
+        public static final int tag_menu_addtorelation=0x7f0900c6;
+        public static final int tag_menu_apply_preset=0x7f0900c2;
+        public static final int tag_menu_help=0x7f0900ca;
+        public static final int tag_menu_mapfeatures=0x7f0900c5;
+        public static final int tag_menu_preset=0x7f0900c1;
+        public static final int tag_menu_repeat=0x7f0900c3;
+        public static final int tag_menu_resetMRU=0x7f0900c8;
+        public static final int tag_menu_reset_address_prediction=0x7f0900c7;
+        public static final int tag_menu_revert=0x7f0900c4;
+        public static final int tag_menu_sourcesurvey=0x7f0900c9;
+        public static final int text1=0x7f090035;
+        public static final int upload_changes=0x7f09008c;
+        public static final int upload_close_changeset=0x7f09008b;
+        public static final int upload_close_changeset_label=0x7f09008a;
+        public static final int upload_comment=0x7f090087;
+        public static final int upload_comment_controls=0x7f090085;
+        public static final int upload_comment_label=0x7f090086;
+        public static final int upload_gpx_controls=0x7f09008d;
+        public static final int upload_gpx_description=0x7f09008f;
+        public static final int upload_gpx_description_label=0x7f09008e;
+        public static final int upload_gpx_tags=0x7f090091;
+        public static final int upload_gpx_tags_label=0x7f090090;
+        public static final int upload_gpx_visibility=0x7f090093;
+        public static final int upload_gpx_visibility_label=0x7f090092;
+        public static final int upload_source=0x7f090089;
+        public static final int upload_source_label=0x7f090088;
+        public static final int urldialog_buttonAddAPI=0x7f09009f;
+        public static final int urldialog_buttonAddPreset=0x7f090099;
+        public static final int urldialog_layoutAPI=0x7f09009a;
+        public static final int urldialog_layoutPreset=0x7f090095;
+        public static final int urldialog_nodata=0x7f0900a0;
+        public static final int urldialog_textAPIExists=0x7f09009e;
+        public static final int urldialog_textAPIName=0x7f09009b;
+        public static final int urldialog_textAPIPresetMissing=0x7f09009d;
+        public static final int urldialog_textAPIURL=0x7f09009c;
+        public static final int urldialog_textPresetExists=0x7f090098;
+        public static final int urldialog_textPresetName=0x7f090096;
+        public static final int urldialog_textPresetURL=0x7f090097;
+        public static final int useLogo=0x7f090012;
+        public static final int vertical_layout=0x7f090079;
+        public static final int wrap_content=0x7f090009;
     }
     public static final class integer {
-        public static final int abs__max_action_buttons=0x7f090000;
+        public static final int abs__max_action_buttons=0x7f080000;
     }
     public static final class layout {
         public static final int abs__action_bar_home=0x7f030000;
@@ -1389,23 +1389,23 @@ common terms
 common terms
 common terms
 common terms
-url handler activity
-common terms
-common terms
-common terms
-common terms
-common terms
-common terms
-common terms
 common terms
 common terms
 common terms
 url handler activity
 common terms
+common terms
+url handler activity
 common terms
 preset downloader messages
 changes
 url handler activity
+common terms
+common terms
+common terms
+common terms
+common terms
+common terms
 common terms
 common terms
 common terms
@@ -1435,6 +1435,19 @@ common terms
         /**   changes 
 preset downloader messages
 changes
+preset downloader messages
+changes
+changes
+changes
+changes
+changes
+changes
+changes
+preset downloader messages
+changes
+changes
+changes
+changes
 changes
 preset downloader messages
 changes
@@ -1447,19 +1460,6 @@ changes
 changes
 changes
 preset downloader messages
-changes
-preset downloader messages
-changes
-changes
-changes
-changes
-changes
-changes
-changes
-changes
-changes
-preset downloader messages
-changes
 changes
 changes
 changes
@@ -1497,19 +1497,19 @@ Preferences
 Preferences
 Preferences
 Preferences
-Preferences
-Preferences
-Preferences
-Preferences
-Preferences
-Preferences
-Preferences
 EasyEdit action mode titles
+Preferences
 Preferences
 Preferences
 element action mode menu
 Text should be as short as possible
 EasyEdit action mode titles
+Preferences
+Preferences
+Preferences
+Preferences
+Preferences
+Preferences
 Preferences
 Preferences
 Preferences
@@ -1646,10 +1646,10 @@ ACRA
         public static final int data_conflict_title=0x7f0a0049;
         /**  time and distance  
 time and distance
-time and distance
-time and distance
 Exceptions messages
 Misc relation related stuff
+time and distance
+time and distance
 time and distance
 time and distance
 time and distance
@@ -1747,20 +1747,9 @@ Help system
 Strings in TagEditor
 Dialog for back button
 Strings in TagEditor
-Dialog for back button
 Strings in TagEditor
 Strings in TagEditor
 Dialog for back button
-Strings in TagEditor
-Dialog for back button
-Strings in TagEditor
-Dialog for back button
-Strings in TagEditor
-Strings in TagEditor
-Strings in TagEditor
-Dialog for back button
-Strings in TagEditor
-Strings in TagEditor
 Strings in TagEditor
 Strings in TagEditor
 Strings in TagEditor
@@ -1769,14 +1758,25 @@ Dialog for back button
 Strings in TagEditor
 Dialog for back button
 Strings in TagEditor
+Strings in TagEditor
+Dialog for back button
+Strings in TagEditor
 Dialog for back button
 Strings in TagEditor
 Strings in TagEditor
 Strings in TagEditor
 Strings in TagEditor
+Dialog for back button
 Strings in TagEditor
 Strings in TagEditor
 Strings in TagEditor
+Strings in TagEditor
+Dialog for back button
+Strings in TagEditor
+Strings in TagEditor
+Strings in TagEditor
+Strings in TagEditor
+Dialog for back button
 Strings in TagEditor
          */
         public static final int key=0x7f0a00b2;
@@ -1877,14 +1877,14 @@ Text should be as short as possible
 Text should be as short as possible
 Text should be as short as possible
 Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
-Text should be as short as possible
 element action mode menu
+Text should be as short as possible
+Text should be as short as possible
+Text should be as short as possible
+Text should be as short as possible
+Text should be as short as possible
+Text should be as short as possible
+Text should be as short as possible
 Text should be as short as possible
 Text should be as short as possible
 Text should be as short as possible
@@ -2080,13 +2080,15 @@ preset downloader messages
 Exceptions messages
 Misc relation related stuff
 Misc relation related stuff
+Misc relation related stuff
+Misc relation related stuff
+Exceptions messages
+Misc relation related stuff
 ACRA
 Exceptions messages
 Misc relation related stuff
 Exceptions messages
 Misc relation related stuff
-Exceptions messages
-Misc relation related stuff
 Misc relation related stuff
 Exceptions messages
 Misc relation related stuff
@@ -2097,11 +2099,9 @@ Misc relation related stuff
 Misc relation related stuff
 Exceptions messages
 Misc relation related stuff
-Misc relation related stuff
 Exceptions messages
 Misc relation related stuff
 Exceptions messages
-Misc relation related stuff
 Misc relation related stuff
 Misc relation related stuff
          */
@@ -2343,6 +2343,24 @@ url handler activity
         public static final int wrong_login_data_message=0x7f0a0048;
         public static final int wrong_login_data_title=0x7f0a0047;
         /**  Some generic labels/buttons 
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Toaster
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
+Some generic labels/buttons
 Toaster
 Some generic labels/buttons
 Some generic labels/buttons
@@ -2350,24 +2368,6 @@ Some generic labels/buttons
 Some generic labels/buttons
 Some generic labels/buttons
 Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Some generic labels/buttons
-Toaster
 Some generic labels/buttons
 Some generic labels/buttons
 Some generic labels/buttons
